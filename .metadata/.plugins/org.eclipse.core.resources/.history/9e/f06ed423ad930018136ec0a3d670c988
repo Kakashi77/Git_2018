@@ -4,8 +4,6 @@ public class Numeros {
 		String nome;
 
 		System.out.println("Ola Mundo");
-		
-		System.out.println("ola");
 
 	}
 
