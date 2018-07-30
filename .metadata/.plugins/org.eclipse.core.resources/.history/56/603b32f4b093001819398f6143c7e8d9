@@ -6,13 +6,13 @@ public class Numeros {
 
 		System.out.println("Ola Mundoooooo");
 		
+<<<<<<< HEAD
 
-
-
+=======
 		System.out.println("la");
 		
 		
-
+>>>>>>> teste
 		
 
 	}
